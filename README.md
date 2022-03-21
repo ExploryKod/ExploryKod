@@ -1,7 +1,7 @@
-👋 Hi, I’m @ExploryKod and I want to share my new passion for web development. 
-👀 I’m interested in constantly searching better ways to code applications and websites.
+👋 Hi, I’m @ExploryKod and I want to share my new passion for web development.<br/>
+👀 I’m interested in constantly searching better ways to code applications and websites.<br/>
 
-🌱 I’m currently learning these technologies:
+🌱 I am currently learning these technologies:
 
     Front-end :
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

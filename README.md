@@ -1,5 +1,6 @@
-👋 Hi, I’m @ExploryKod and I want to share my new passion for web development.                                                                                          
+👋 Hi, I’m @ExploryKod and I want to share my new passion for web development. 
 👀 I’m interested in constantly searching better ways to code applications and websites.
+
 🌱 I’m currently learning these technologies:
 
     Front-end :

@@ -1,5 +1,7 @@
-👋 Hi, I’m @ExploryKod and I want to share my new passion for web development.<br/>
-👀 I’m interested in constantly searching better ways to code applications and websites.<br/>
+👋 Hi, welcome to my github profile. I’m Amaury Franssen, student at <a href="https://www.hetic.net/">HETIC</a>.<br/> 
+🔥 I am glad to share my new passion for web development with you.<br/>
+   
+👀 I am interested in constantly searching better ways to code applications and websites.<br/>
 
 🌱 I am currently learning these technologies:
 

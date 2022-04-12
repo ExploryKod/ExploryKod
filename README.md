@@ -3,8 +3,7 @@
    
 👀 I am interested in constantly searching better ways to code applications and websites.<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExploryKod&hide=html,css&layout=compact&langs_count=10)](https://github.com/ExploryKod/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExploryKod&hide=html,css&layout=compact&langs_count=10)](https://github.com/ExploryKod/github-readme-stats)<br/>
 
 🌱 I am currently learning or planning to learn these technologies:<br/>
 
@@ -21,7 +20,7 @@
    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
    ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)<br/>
    
-   Design: ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <!---
 ExploryKod/ExploryKod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

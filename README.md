@@ -3,7 +3,7 @@
    
 👀 I am interested in constantly searching better ways to code applications and websites.<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExploryKod&hide=html,css&layout=compact&langs_count=10)](https://github.com/ExploryKod/github-readme-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExploryKod&layout=compact&langs_count=10)](https://github.com/ExploryKod/github-readme-stats)<br/>
 
 🌱 I am currently learning or planning to learn these technologies:<br/>
 

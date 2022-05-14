@@ -2,7 +2,9 @@
 🔥 I am glad to share my new passion for web development with you.<br/>
 👀 I am interested in constantly searching better ways to code applications and websites.<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExploryKod&layout=compact&langs_count=10&hide=html,css)](https://github.com/ExploryKod/github-readme-stats)<br/>
+<a href="https://github.com/ExploryKod/github-readme-stats">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExploryKod&layout=compact&langs_count=10&hide=html,css">
+</a>
 
 🌱 I am currently learning or planning to learn these technologies:<br/>
 

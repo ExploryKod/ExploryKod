@@ -1,5 +1,5 @@
 
-👋 Hi, welcome to my GitHub profile. My name is Amaury Franssen. I studied at <a href="https://www.hetic.net/">HETIC</a> between 2021 and 2024 and have been working as a web developer since.
+👋 Hi, welcome to my GitHub profile. My name is Amaury Franssen. I studied at <a href="https://www.hetic.net/">HETIC</a> between 2021 and 2024 and have been working as a web developer since.<br/>
 🔥 I am glad to share my new passion for web development with you.<br/>
 👀 I am interested in constantly searching better ways to code applications and websites.<br/>
 

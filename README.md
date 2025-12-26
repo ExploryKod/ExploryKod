@@ -1,5 +1,5 @@
 
-👋 Hi, welcome to my github profile. I’m Amaury Franssen, student at <a href="https://www.hetic.net/">HETIC</a> and currently working in <a href="https://www.glanum.com/">Glanum</a>.<br/> 
+👋 Hi, welcome to my github profile. I’m Amaury Franssen, I have been a student at <a href="https://www.hetic.net/">HETIC</a> (2021 - 2024) and worked as a web developper sinced.<br/> 
 🔥 I am glad to share my new passion for web development with you.<br/>
 👀 I am interested in constantly searching better ways to code applications and websites.<br/>
 

@@ -14,7 +14,11 @@ Tech stack :
 - TypeScript with frameworks such as NextJs/NestJs to build website with important frontend to handle and Nestjs or NextJs used for the backend.
 - CMS: WordPress, Statamic (Laravel) and sometimes Sanity (NextJs)
 - Golang on some subjects as an api to handle websockets in order to create chat rooms etc.
-- Python on some use case, sometimes involving Flask. Python 
+- Python on some use case, sometimes involving Flask. 
+
+Python will soon take more and more place in my stack as my new interest involves creating IA Agent and RAG or new use case we will discover as IA usage grow.<br>
+My first years on this career path involved hours to master React and some framework and fundamentals.<br> 
+These fundamentals and the real understanding of how a framework work are more important than ever in LLM era : indeed even if LLM know all that things, building real production ready app imply to think to consequences of each decisions in a broader business context and these human orientation imply to be more clever than before for a junior dev as LLM already do quick and dirty, we now need to add value by guidance of each decisions and become a dev strategist.
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ExploryKod&hide=html,css,twig,javascript&theme=radical&layout=compact&hide_progress=true&langs_count=6&card_width=320" />

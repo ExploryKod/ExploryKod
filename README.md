@@ -18,7 +18,6 @@ Tech stack :
 
 Python will soon take more and more place in my stack as my new interest involves creating IA Agent and RAG or new use case we will discover as IA usage grow.<br>
 My first years on this career path involved hours to master React and some framework and fundamentals.<br> 
-These fundamentals and the real understanding of how a framework work are more important than ever in LLM era : indeed even if LLM know all that things, building real production ready app imply to think to consequences of each decisions in a broader business context and these human orientation imply to be more clever than before for a junior dev as LLM already do quick and dirty, we now need to add value by guidance of each decisions and become a dev strategist.
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ExploryKod&hide=html,css,twig,javascript&theme=radical&layout=compact&hide_progress=true&langs_count=6&card_width=320" />

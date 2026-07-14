@@ -11,7 +11,7 @@ My Areas of interest :
 - How React and NextJs are working and their limitations
 
 Tech stack : 
-- TypeScript with frameworks such as NextJs/NestJs to build website with important frontend to handle and Nestjs or NextJs used for the backend.
+- TypeScript with frameworks such as NextJs/NestJs to build website with important frontend to handle and Nestjs or other framework used for the backend.
 - CMS: WordPress, Statamic (Laravel) and sometimes Sanity (NextJs)
 - Golang on some subjects as an api to handle websockets in order to create chat rooms etc.
 - Python on some use case, sometimes involving Flask. 

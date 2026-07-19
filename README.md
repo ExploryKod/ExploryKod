@@ -12,7 +12,10 @@ My Areas of interest :
 
 Tech stack : 
 - TypeScript with frameworks such as NextJs/NestJs to build website with important frontend to handle and Nestjs or other framework used for the backend.
+- Laravel / PHP pure 
 - CMS: WordPress, Statamic (Laravel) and sometimes Sanity (NextJs)
+
+Experiments :
 - Golang on some subjects as an api to handle websockets in order to create chat rooms etc.
 - Python on some use case, sometimes involving Flask. 
 

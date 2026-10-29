@@ -1,11 +1,13 @@
 
 👋 Hi, welcome to my GitHub profile. My name is Amaury Franssen.<br/> 
-👨‍🎓 I studied at <a href="https://www.hetic.net/">HETIC</a> between 2021 and 2024 and have been working as a web developer since.<br/>
-🔥 I am glad to share my new passion for web development with you.<br/>
-👀 I am interested in constantly searching better ways to code applications and websites.<br/>
+👨‍🎓 I studied at <a href="https://www.hetic.net/">HETIC</a> between 2021 and 2024 by passion for technologies.<br/>
+🔥 I am glad to share my new passion for web development and informatics with you.<br/>
+👀 I am interested in constantly searching better ways to design applications with architecture in mind.<br/>
 
 My Areas of interest : 
 - Design patterns and clean architecture
+- Infrastructure and security while I ship project online (Cloud, VPS ...)
+- Well designed Containerization and CI/CD 
 - New use cases emerging with the use of LLM by web developers
 - New subject that come to my interest are RAG, langchain etc. - I hope to master these one soon.
 - How React and NextJs are working and their limitations
